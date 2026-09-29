@@ -583,7 +583,7 @@ footer {
     }
 
     .nav-button {
-        margin-left: auto;
+        margin: 0 auto;
     }
 }
 
